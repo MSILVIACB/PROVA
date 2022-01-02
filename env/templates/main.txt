@@ -1,0 +1,14 @@
+from flask import Flask,render_template, request
+
+app=Flask(__name__)
+
+@app.route("/")
+def home():
+
+    if request.method=='GET'
+
+    return render_termplate('home.html')
+
+    if__name__== "__main__":
+
+app.run(debug=True) 
