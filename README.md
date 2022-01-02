@@ -1,2 +1,2 @@
 # PROVA
-Projetinho de disciplina de Sistemas Distribuídos e concorrentes
+Projetinho de disciplina de Sistemas Distribuídos e concorrentes/ PYTHON.
